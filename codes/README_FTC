@@ -1,0 +1,35 @@
+
+library
+	libsvm-mat-2.86-1
+	LDALIB
+Database Quering
+	FRgetdata
+Image Acquiring
+	FRgetimg
+	FRimgnormxy
+Clustering
+	FRFTCTrain.m
+	FRClusterTrain 
+SVM related
+	FRCodeTrain.m
+	FRgettrain.m
+	FRgettest.m	
+	FRSVMParams.m
+	FRSVMScale.m
+	FRSVMeasy.m
+Encoding
+	FRCodeTest.m
+Distance
+	FRCodeCompare.m
+Evaluate All
+	FREvaluateFTC.m
+	FREvaluate.m
+	FRtune.m
+	FRtuneFTC.m
+Identification
+	FRIdentify.m
+	FRCodeIdentify.m
+	FREnsemble.m
+Verification
+	FRVerify.m
+	FRCodeVerify.m
