@@ -1,2 +1,2 @@
-# ntu-pr
-NTU Pattern Recognition 2009 
+# NTU Pattern Recognition 2009
+The coursework archive
